@@ -1,0 +1,9 @@
+[submodule ".devcontainer"]
+	path = .devcontainer
+	url = git@github.com:hayatoshibahara/.devcontainer
+[submodule "minbpe"]
+	path = minbpe
+	url = git@github.com:karpathy/minbpe.git
+[submodule "tiktoken"]
+	path = tiktoken
+	url = git@github.com:openai/tiktoken
