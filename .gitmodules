@@ -7,3 +7,6 @@
 [submodule "tiktoken"]
 	path = tiktoken
 	url = git@github.com:openai/tiktoken
+[submodule "nanochat"]
+	path = nanochat
+	url = git@github.com:karpathy/nanochat
